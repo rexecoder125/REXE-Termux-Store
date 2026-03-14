@@ -1,4 +1,4 @@
-<h1 align="center">⚡ REXE TERMUX TOOL STORE ⚡</h1>
+<h1 align="center">⚡ REXE TERMUX TOOL STORE COMING SOON ⚡</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=03F000&center=true&vCenter=true&width=600&lines=REXE+TERMUX+STORE;200%2B+HACKING+TOOLS;ULTIMATE+TOOL+INSTALLER;MADE+BY+REXE" />
 </p>
