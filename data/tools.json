@@ -1,0 +1,152 @@
+{
+  "Information Gathering": {
+    "Nmap": "https://github.com/nmap/nmap",
+    "RED_HAWK": "https://github.com/Tuhinshubhra/RED_HAWK",
+    "ReconDog": "https://github.com/s0md3v/ReconDog",
+    "asundrp": "https://github.com/utkusen/asundrp",
+    "Photon": "https://github.com/s0md3v/Photon",
+    "OSINT-Collector": "https://github.com/s0md3v/OSINT-Collector",
+    "Subfinder": "https://github.com/projectdiscovery/subfinder",
+    "Assetfinder": "https://github.com/tomnomnom/assetfinder",
+    "httping": "https://github.com/flori/httping",
+    "Dnsenum": "https://github.com/fwaeytens/dnsenum",
+    "DNSMap": "https://github.com/makefu/dnsmap",
+    "Crips": "https://github.com/Manisso/Crips",
+    "XSStrike": "https://github.com/s0md3v/XSStrike",
+    "Knockpy": "https://github.com/guelfoweb/knock",
+    "theHarvester": "https://github.com/laramies/theHarvester",
+    "Amass": "https://github.com/owasp-amass/amass",
+    "Ffuf": "https://github.com/ffuf/ffuf",
+    "Httprobe": "https://github.com/tomnomnom/httprobe",
+    "Hakrawler": "https://github.com/hakluke/hakrawler",
+    "DNScan": "https://github.com/rbsec/dnscan"
+  },
+
+  "Web Hacking": {
+    "sqlmap": "https://github.com/sqlmapproject/sqlmap",
+    "XAttacker": "https://github.com/Moham3dRiahi/XAttacker",
+    "Striker": "https://github.com/s0md3v/Striker",
+    "Breacher": "https://github.com/s0md3v/Breacher",
+    "Blazy": "https://github.com/s0md3v/Blazy",
+    "WhatWeb": "https://github.com/urbanadventurer/WhatWeb",
+    "CMSmap": "https://github.com/Dionach/CMSmap",
+    "Wapiti": "https://github.com/wapiti-scanner/wapiti",
+    "Nikto": "https://github.com/sullo/nikto",
+    "Joomscan": "https://github.com/rezasp/joomscan",
+    "Droopescan": "https://github.com/droope/droopescan",
+    "Wpscan": "https://github.com/wpscanteam/wpscan",
+    "XSpear": "https://github.com/hahwul/XSpear",
+    "Dalfox": "https://github.com/hahwul/dalfox",
+    "Kxss": "https://github.com/tomnomnom/hacks/tree/master/kxss"
+  },
+
+  "Bruteforce Tools": {
+    "Hydra": "https://github.com/vanhauser-thc/thc-hydra",
+    "Brutal": "https://github.com/Screetsec/Brutal",
+    "Cupp": "https://github.com/Mebus/cupp",
+    "JohnTheRipper": "https://github.com/openwall/john",
+    "HashCat": "https://github.com/hashcat/hashcat",
+    "Medusa": "https://github.com/jmk-foofus/medusa",
+    "Ncrack": "https://github.com/nmap/ncrack",
+    "Facebook-Bruteforce": "https://github.com/FSecureLABS/FBBruteforce",
+    "InstaHack": "https://github.com/avramit/instahack",
+    "WordBruteforce": "https://github.com/jeanphorn/wordlist"
+  },
+
+  "OSINT Tools": {
+    "Sherlock": "https://github.com/sherlock-project/sherlock",
+    "PhoneInfoga": "https://github.com/sundowndev/phoneinfoga",
+    "EmailHarvester": "https://github.com/maldevel/EmailHarvester",
+    "Infoga": "https://github.com/m4ll0k/Infoga",
+    "Profiler": "https://github.com/soxoj/maigret",
+    "UserRecon": "https://github.com/thelinuxchoice/userrecon",
+    "SocialScan": "https://github.com/iojw/socialscan",
+    "GHunt": "https://github.com/mxrch/GHunt",
+    "Holehe": "https://github.com/megadose/holehe",
+    "Photon": "https://github.com/s0md3v/Photon"
+  },
+
+  "Social Media Tools": {
+    "Instaloader": "https://github.com/instaloader/instaloader",
+    "InstaOSINT": "https://github.com/sc1341/instaLooter",
+    "TikTok-Downloader": "https://github.com/krypton-byte/Downloader-tiktok",
+    "FB-Video-Downloader": "https://github.com/harismuneer/FB-Video-Downloader",
+    "YT-Downloader": "https://github.com/ytdl-org/youtube-dl",
+    "Tg-Brute": "https://github.com/Ha3MrX/TgBrute",
+    "InstaInfo": "https://github.com/D3VL/L3MON"
+  },
+
+  "Wireless Attacks": {
+    "Aircrack-ng": "https://github.com/aircrack-ng/aircrack-ng",
+    "Wifite2": "https://github.com/derv82/wifite2",
+    "Fluxion": "https://github.com/FluxionNetwork/fluxion",
+    "Reaver": "https://github.com/t6x/reaver-wps-fork-t6x",
+    "WiFi-Pumpkin": "https://github.com/P0cL4bs/WiFi-Pumpkin",
+    "Kismet": "https://github.com/kismetwireless/kismet"
+  },
+
+  "Network Tools": {
+    "Bettercap": "https://github.com/bettercap/bettercap",
+    "Netdiscover": "https://github.com/alexxy/netdiscover",
+    "ArpScan": "https://github.com/royhills/arp-scan",
+    "Hping3": "https://github.com/antirez/hping",
+    "TCPDump": "https://github.com/the-tcpdump-group/tcpdump",
+    "Wireshark": "https://github.com/wireshark/wireshark"
+  },
+
+  "Exploitation Tools": {
+    "Metasploit-Framework": "https://github.com/rapid7/metasploit-framework",
+    "BeEF": "https://github.com/beefproject/beef",
+    "RouterSploit": "https://github.com/threat9/routersploit",
+    "Setoolkit": "https://github.com/trustedsec/social-engineer-toolkit",
+    "Commix": "https://github.com/commixproject/commix",
+    "SQLNinja": "https://github.com/xxgrj/sqlninja"
+  },
+
+  "Forensics": {
+    "Autopsy": "https://github.com/sleuthkit/autopsy",
+    "Volatility": "https://github.com/volatilityfoundation/volatility",
+    "Binwalk": "https://github.com/ReFirmLabs/binwalk",
+    "Foremost": "https://github.com/juliocesarfort/foremost",
+    "ExifTool": "https://github.com/exiftool/exiftool"
+  },
+
+  "Phishing Tools": {
+    "HiddenEye": "https://github.com/DarkSecDevelopers/HiddenEye",
+    "AdvPhishing": "https://github.com/Ignitetch/AdvPhishing",
+    "Zphisher": "https://github.com/htr-tech/zphisher",
+    "Nphisher": "https://github.com/Rajkumrdusad/Nphisher",
+    "Weeman": "https://github.com/evait-security/weeman"
+  },
+
+  "Malware Tools": {
+    "FatRat": "https://github.com/Screetsec/TheFatRat",
+    "Venom": "https://github.com/r00t-3xp10it/venom",
+    "Evil-Droid": "https://github.com/M4sc3r4n0/Evil-Droid",
+    "Ghost": "https://github.com/EntySec/Ghost"
+  },
+
+  "Wordlist Tools": {
+    "Cewl": "https://github.com/digininja/CeWL",
+    "Crunch": "https://github.com/crunchsec/crunch",
+    "Pydictor": "https://github.com/LandGrey/pydictor",
+    "Weakpass": "https://github.com/berzerk0/Probable-Wordlists"
+  },
+
+  "Termux Customization": {
+    "Termux-Theme": "https://github.com/adi1090x/termux-style",
+    "OhMyZsh": "https://github.com/ohmyzsh/ohmyzsh",
+    "PowerLevel10k": "https://github.com/romkatv/powerlevel10k",
+    "Starship": "https://github.com/starship/starship",
+    "OhMyTermux": "https://github.com/ohmytermux/ohmytermux"
+  },
+
+  "Utilities": {
+    "Neofetch": "https://github.com/dylanaraps/neofetch",
+    "Htop": "https://github.com/htop-dev/htop",
+    "Btop": "https://github.com/aristocratos/btop",
+    "Figlet": "https://github.com/cmatsuoka/figlet",
+    "Lolcat": "https://github.com/busyloop/lolcat",
+    "FastFetch": "https://github.com/fastfetch-cli/fastfetch"
+  }
+}
