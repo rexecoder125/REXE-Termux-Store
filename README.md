@@ -37,10 +37,12 @@ pkg update -y && pkg upgrade -y
 pkg install git python -y  
 git clone https://github.com/rexecoder125/REXE-Termux-Store  
 cd REXE-Termux-Store  
-bash install.sh  
+bash install.sh
+
+
 
 ## Run
 
 python rexe.py
 
-## Features
+```
